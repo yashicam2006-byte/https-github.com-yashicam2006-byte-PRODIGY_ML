@@ -19,4 +19,4 @@ Linear Regression
 - Mean Squared Error (MSE): Generated in output
 - R2 Score: Generated in output
 - Graph: Actual vs Predicted House Prices
--
+
